@@ -1945,11 +1945,11 @@ button.bg-primary:focus {
 
 body {
     font-family: "Poppins", Arial, sans-serif;
-    background: #111111;
+    background: linear-gradient(to bottom, darkblue, lightblue, purple, red);
     font-size: 15px;
     line-height: 1.8;
     font-weight: 400;
-    color: #666666;
+    color: white;
 }
 
 body.offcanvas {
